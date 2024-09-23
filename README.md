@@ -14,8 +14,8 @@
 - 🔥 **CRUD** – Admin can create, read, update, delete members.
 - ⚡ **Notifications**
   1. Admin will get notifications of members who hasnot paid their fees.
-  2. Members can change their shift i.e morning or evening.
-  3. Data will be saved in excel file.
+- Members can change their shift i.e morning or evening.
+- Data will be saved in excel file.
 
 ### 📦 Installation
 
